@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
-global.region = 'Planet China'
+global.owner = ['6283171382342']
+global.ownernomer = '6283171382342'
+global.premium = ['6283171382342']
+global.ownername = 'Sumanto'
+global.botname = 'xontol'
+global.footer = 'xntl'
+global.email = 'obos.dora@gmail.com'
+global.ig = 'https://gaPunyaIgg.wkwk'
+global.region = 'Jepun'
 
 // Keperluan buttons
-global.myweb = 'https://api-riych.herokuapp.com/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.myweb = 'https://awogawog.000webhostapp.com'
+global.sc = 'https://github.com/clhuang/heroku-buildpack-webp-binaries'
 
 // Wm
-global.packname = 'Keyolbot-Md'
-global.author = 'WhatsApp Bot Multi-Device'
+global.packname = '0831 7138 2342'
+global.author = 'Sv Yah Kaakk:)'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/keyol.jpg')
